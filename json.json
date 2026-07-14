@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Pompompurin",
+    "stock": 1,
+    "category": "Type-C+Type-C",
+    "location": "3 stores",
+    "status": "Active",
+    "imageUrl": "https://down-th.img.susercontent.com/file/cn-11134207-7r98o-m05kjdjafft352@resize_w450_nl.webp"
+  },
+  {
+    "id": "2",
+    "name": "Hello Kitty",
+    "stock": 2,
+    "category": "Type-C+Type-C",
+    "location": "5 stores",
+    "status": "Active",
+    "imageUrl": "https://down-th.img.susercontent.com/file/cn-11134207-7r98o-m05kjdjaff4e0f@resize_w450_nl.webp"
+  },
+  {
+    "id": "3",
+    "name": "Kuromi",
+    "stock": 5,
+    "category": "Type-C+Type-C",
+    "location": "7 stores",
+    "status": "Active",
+    "imageUrl": "https://down-th.img.susercontent.com/file/cn-11134207-7r98o-m05kjeremvnr94@resize_w450_nl.webp"
+  },
+  {
+    "id": "4",
+    "name": "My Melody",
+    "stock": 8,
+    "category": "Type-C+Type-C",
+    "location": "8 stores",
+    "status": "Active",
+    "imageUrl": "https://down-th.img.susercontent.com/file/cn-11134207-7r98o-m05kjhj0l3da77@resize_w450_nl.webp"
+  }
+]
